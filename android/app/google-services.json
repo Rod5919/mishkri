@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "888583511534",
+    "firebase_url": "https://mishkri-5deb8.firebaseio.com",
+    "project_id": "mishkri-5deb8",
+    "storage_bucket": "mishkri-5deb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888583511534:android:d92653471c2ab84cf782ff",
+        "android_client_info": {
+          "package_name": "com.example.mishkri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888583511534-iobr9ma4rq0osr70udsc1aps0v0h4nfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfAuSrOJFU1QzTcSy5DBAjPoH0WxQyqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888583511534-iobr9ma4rq0osr70udsc1aps0v0h4nfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888583511534:android:8a3537033206079af782ff",
+        "android_client_info": {
+          "package_name": "com.rodri.flutterfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888583511534-iobr9ma4rq0osr70udsc1aps0v0h4nfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKfAuSrOJFU1QzTcSy5DBAjPoH0WxQyqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888583511534-iobr9ma4rq0osr70udsc1aps0v0h4nfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

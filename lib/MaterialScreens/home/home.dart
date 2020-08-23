@@ -10,7 +10,7 @@ class Home extends StatefulWidget {
 }
 
 class _HomeState extends State<Home> {
-  Color mishkricolor = Color.fromRGBO(181, 30, 37, 0);
+  Color mishkricolor = Colors.red;
   
   //Properties
 
